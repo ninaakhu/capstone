@@ -8,7 +8,7 @@ while running:
 
     wantNewTask = False
     print("Do you want to enter a new task?")
-    newTask = input("Enter yes or no")
+    newTask = input("Enter yes or no: ")
     if newTask == "yes":
         wantNewTask = True
     elif newTask == "no":
