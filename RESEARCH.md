@@ -33,3 +33,7 @@ Reason: Wanted to implement how to make warning message boxes pop up
 Article: How To Convert a String to a datetime or time Object in Python
 Source: https://www.digitalocean.com/community/tutorials/python-string-to-datetime-strptime
 Reason: Wanted to learn how to use the computer's date in the program
+
+Article: Read JSON file using Python
+Source: https://www.geeksforgeeks.org/read-json-file-using-python/
+Reason: Wanted to use fileIO to save previous tasks so that when the application is reopened tasks are restored
